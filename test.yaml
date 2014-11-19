@@ -1,0 +1,15 @@
+---
+taskname: 'testtask'
+stimulusDuration: 1.0
+responseWindow: 1.0
+clearAfterResponse: 1
+quit_key: 'q'
+trigger_key: '5'
+---
+onset: 1
+duration: 1.0
+stimtext: 'test'
+---
+onset: 4
+duration: 2.0
+stimtext: 'test2'
